@@ -1,0 +1,8 @@
+Lányok:
+legidősebb:33
+összes kor:77
+6 éve dolgozó:Petra
+Fiúk:
+legidősebb:35
+összes kor:100
+6 éve dolgozó:nincs
